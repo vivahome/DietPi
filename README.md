@@ -1,4 +1,4 @@
-# DietPi
+# DietPi Version for NetBox 1.0
 Lightweight justice for your Raspberry Pi.
 
 ##### DietPi for Raspberry Pi's http://fuzon.co.uk/phpbb/viewtopic.php?f=8&t=6
